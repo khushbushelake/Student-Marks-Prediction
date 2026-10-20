@@ -90,7 +90,7 @@ The actual evaluation metrics are displayed when the program runs.
 ## Author
 Khushbu Shelake
 
-GitHub: https://github.com/khushbushelake
+GitHub: https://github.com/khushbushelake/Student-Marks-Prediction
 
 ## Purpose
 This project was developed for educational purposes to demonstrate the implementation of a machine learning model using Python.
